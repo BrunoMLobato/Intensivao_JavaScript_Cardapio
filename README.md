@@ -1,4 +1,4 @@
-# :coffee:  Intensivão de JavaScript! [AULA 4].
+# :coffee:  Intensivão de JavaScript! [AULA 3].
 
 No dia 31/01/2024, Concluí um intensivão de JAVASCRIPT oferecido pela HashTag Programação. O projeto a ser desenvolvido consiste na criação de uma página de cardápio dinamica utilizando a bibliotecas REACT e VITE com JAVASCRIPT e NODE.JS, além das linguagens de marcação HTML e CSS. O intensivão tem como propósito aprender conceitos do básico ao avançado com o JAVASCRIPT .
 <br>
