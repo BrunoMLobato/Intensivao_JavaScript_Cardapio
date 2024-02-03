@@ -3,11 +3,10 @@ import imagemRestaurant from "./assets/capa_restaurante.jpg";
 import './App.css';
 import { Navegacao } from "./Navegacao";
 import { ItemCardapio } from "./ItemCardapio";
-import { pratosPrincipais, bebidas, sobremesas } from "./cardapio";
-
+import { hamburguer, bebidas, acompanhamentos } from "./cardapio";
 
 export function App() {
-    const paginasMenu = [pratosPrincipais,bebidas,sobremesas]
+    const paginasMenu = [hamburguer,bebidas,acompanhamentos]
     const [paginaSelecionada, atualizarPaginaSelecionada] = useState (0);
 
     return  <>
